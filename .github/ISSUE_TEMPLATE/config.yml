@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security report (private)
+    url: https://github.com/manji-0/codex-response-proxy/security/advisories/new
+    about: Report vulnerabilities privately. Do not use public issues.
+  - name: Support policy
+    url: https://github.com/manji-0/codex-response-proxy/blob/main/SUPPORT.md
+    about: Read support scope and required issue details.
